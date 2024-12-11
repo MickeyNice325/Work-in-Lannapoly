@@ -1,9 +1,11 @@
 
 import './App.css';
+import './css/cardroom.css';
+import './css/nav.css';
 import Navbar from './components/Navbar.js';
-import Carousel from './pages/carousel.js';
-import Room from './pages/room.js';
-import Footer from './pages/footer.js';
+import Carousel from './pages/index/carousel.js';
+import Room from './pages/index/room.js';
+import Footer from './pages/index/footer.js';
 
 function App() {
   return (
