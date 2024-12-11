@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+งานส่งจารย์ตึงๆ
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
